@@ -19,7 +19,7 @@ This Python script extracts the cover (first page) from PDF files and saves them
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pdf-cover-extractor.git
+   git clone https://github.com/Masozee/pdf-cover-extract.git
    cd pdf-cover-extractor
    ```
 
