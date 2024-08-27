@@ -48,7 +48,7 @@ This Python script extracts the cover (first page) from PDF files and saves them
 
 2. Run the script:
    ```
-   python extract_covers.py
+   python main.py
    ```
 
 3. The script will:
